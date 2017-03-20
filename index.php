@@ -157,7 +157,7 @@ $( document ).ready(function() {
 	/* Foto */
 	var picMap = L.map('picContainer', {
 		crs: L.CRS.Simple,
-		minZoom: 	-1,
+		minZoom: 	-10,
 		maxZoom: 	13,
 		center: 	[0, 0],
 		zoom: 		zoom,
