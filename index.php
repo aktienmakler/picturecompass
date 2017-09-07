@@ -16,9 +16,9 @@ $exif = exif_read_data($imgAbs, 0, true);
 <title>Bilderkompass</title>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="leaflet/leaflet.css" />
+<link rel="stylesheet" href="leaflet/leaflet-0.7.css" />
 <script src="functions.js"></script>
-<script src="leaflet/leaflet.js"></script>
+<script src="leaflet/leaflet-0.7.js"></script>
 <script src="jquery/jquery.min.js"></script>
 <script>
 $( document ).ready(function() {
